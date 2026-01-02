@@ -9,5 +9,23 @@ This project is implemented using LangGraph, LangChain, and transformer-based em
 
 ![STAR-RAG System Flow](img/flow.png)
 
+## System snapshots
 
+![STAR-RAG System Flow](img/gradio1.png)
+![STAR-RAG System Flow](img/gradio2.png)
 
+## Getting started
+
+```bash
+git clone https://github.com/johnIT56/STAR-RAG.git
+pip install -r requirements.txt
+jupyter notebook
+
+```
+## Requirements
+
+Python 3.11+
+
+## License
+
+MIT License
