@@ -5,4 +5,9 @@ The system dynamically routes user queries to one of three paths: a retrieval-au
 
 This project is implemented using LangGraph, LangChain, and transformer-based embedding models, and demonstrates improved accuracy, reduced hallucinations, and higher user satisfaction compared to baseline LLM systems.
 
+## System Architecture
+
+![STAR-RAG System Flow](img/flow.png)
+
+
 
